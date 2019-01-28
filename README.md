@@ -43,13 +43,6 @@ tsc index.ts
 node index.js
 ```
 
-or
-
-```sh
-yarn index.js
-```
-
-
 ### License
 
 ts-hw is [MIT licensed](./LICENSE).
