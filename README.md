@@ -2,11 +2,11 @@
 
 ## Direct ancestors
 
-[js-hw](https://github.com/softspider/js-hw)
+[javascript-HelloWorld](https://github.com/softspider/js-hw)
 
 ## Direct descendants
 
-[ts-test](https://github.com/softspider/ts-test)
+[typescript-test](https://github.com/softspider/ts-test)
 
 ## Requirements
 
