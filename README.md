@@ -1,10 +1,5 @@
 # HelloWorld in TypeScript
 
-## SoftSpiders Tags
-
-* ts
-* hw
-
 ## Direct ancestors
 
 [js-hw](https://github.com/softspider/js-hw)
