@@ -6,7 +6,7 @@
 
 ## Direct descendants
 
-[typescript-test](https://github.com/softspider/typescript-test)
+[min-test-in-typescript](https://github.com/softspider/min-test-in-typescript)
 
 ## Requirements
 
