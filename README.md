@@ -25,6 +25,11 @@ Install TypeScript as a Node.js package
 ```sh
 npm i -g typescript
 ```
+or
+
+```sh
+yarn global add typescript
+```
 
 ## Compilation
 
