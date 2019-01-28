@@ -20,6 +20,7 @@ Install TypeScript as a Node.js package
 ```sh
 npm i -g typescript
 ```
+
 or
 
 ```sh
@@ -37,6 +38,10 @@ tsc index.ts
 ```sh
 node index.js
 ```
+
+## Author
+
+[Alexander Lapygin](https://github.com/AlexanderLapygin)
 
 ### License
 
