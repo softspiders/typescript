@@ -2,7 +2,7 @@
 
 ## Direct ancestors
 
-[javascript-HelloWorld](https://github.com/softspider/javascript-HelloWorld)
+[HelloWorld in JavaScript](https://github.com/softspider/javascript-HelloWorld)
 
 ## Direct descendants
 
@@ -40,4 +40,4 @@ node index.js
 
 ### License
 
-ts-hw is [MIT licensed](./LICENSE).
+helloworld-in-typescript is [MIT licensed](./LICENSE).
