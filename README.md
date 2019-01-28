@@ -41,4 +41,3 @@ node index.js
 ### License
 
 Licensed under the [MIT licensed](./LICENSE).
-Licensed under the [MIT](LICENSE.txt) License.
