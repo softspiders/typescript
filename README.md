@@ -5,9 +5,13 @@
 * ts
 * hw
 
-## Ancestors
+## Direct ancestors
 
 [js-hw](https://github.com/softspider/js-hw)
+
+## Direct descendants
+
+[ts-test](https://github.com/softspider/ts-test)
 
 ## Requirements
 
