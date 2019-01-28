@@ -2,7 +2,7 @@
 
 ## Direct ancestors
 
-[HelloWorld in JavaScript](https://github.com/softspider/javascript-HelloWorld)
+[helloworld-in-javascript](https://github.com/softspider/helloworld-in-javascript)
 
 ## Direct descendants
 
