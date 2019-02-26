@@ -8,6 +8,7 @@
 
 - [Minimalistic test example in *TypeScript*](https://github.com/softspider/min-test-in-typescript)
 - [Minimalistic *react-native-web* in *TypeScript*](https://github.com/softspider/react-native-web-ts)
+- [An Apollo Server & Client in Next.js in a yarn Workspace deployed with Zeit 2.0](https://github.com/softspider/zeit-now-next-apollo-typescript-example)
 
 
 ## Requirements
