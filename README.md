@@ -10,6 +10,7 @@
 - [Minimalistic test example in *TypeScript*](https://github.com/softspider/min-test-in-typescript)
 - [Minimalistic *react-native-web* in *TypeScript*](https://github.com/softspider/react-native-web-ts)
 - [An Apollo Server & Client in a Next.js in a yarn Workspace deployed with Now 2.0](https://github.com/softspider/zeit-now-next-typescript-graphql-apollo)
+- [cra-typescript-uilib-with-storybook-in-lerna](https://github.com/softspider/cra-typescript-uilib-with-storybook-in-lerna)
 
 ## Direct code ancestors
 
