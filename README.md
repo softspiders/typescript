@@ -1,5 +1,9 @@
 # HelloWorld in TypeScript
 
+## Feature tags
+- typescript
+
+
 ## Direct feature ancestors
 
 [helloworld-in-javascript](https://github.com/softspider/helloworld-in-javascript)
