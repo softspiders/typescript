@@ -1,6 +1,7 @@
 # HelloWorld in TypeScript
 
 ## Feature tags
+- helloworld
 - typescript
 
 
