@@ -1,9 +1,12 @@
 # HelloWorld in TypeScript
 
+---
+
 ## Feature tags
 - helloworld
 - typescript
 
+---
 
 ## Direct feature ancestors
 
@@ -26,11 +29,14 @@
 
 [Minimalistic NextJS in TypeScript](https://github.com/softspider/next-typescript)
 
+---
 
 ## Requirements
 
 * [Node.js](https://nodejs.org/en/download/package-manager/)
 * [TypeScript](https://www.typescriptlang.org/)
+
+---
 
 ## Istallation
 
@@ -54,13 +60,19 @@ tsc index.ts
 
 ## Running
 
+---
+
 ```sh
 node index.js
 ```
 
+---
+
 ## Author
 
 [Alexander Lapygin](https://github.com/AlexanderLapygin)
+
+---
 
 ### License
 
