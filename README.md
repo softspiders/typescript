@@ -24,6 +24,7 @@
 ## Direct code descendants
 
 [Minimalistic NextJS in TypeScript](https://github.com/softspider/next-typescript)
+[Minimalistic React module in TypeScript with Storybook and Snapshot testing](https://github.com/softspider/react-ts-storybook-storyshots)
 
 
 ## Requirements
