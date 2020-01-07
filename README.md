@@ -14,7 +14,6 @@
 
 ## Direct feature descendants
 
-- [Minimalistic test example in TypeScript](https://github.com/softspider/typescript-test)
 - [Minimalistic NextJS in TypeScript](https://github.com/softspider/next-typescript)
 - [Minimalistic test example in *TypeScript*](https://github.com/softspider/min-test-in-typescript)
 - [Minimalistic *react-native-web* in *TypeScript*](https://github.com/softspider/react-native-web-ts)
