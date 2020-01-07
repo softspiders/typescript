@@ -4,6 +4,7 @@
 
 ## Feature tags
 - helloworld
+- template
 - typescript
 
 ---
