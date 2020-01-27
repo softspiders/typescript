@@ -12,14 +12,14 @@ SOFTSPIDERS
 
 ## Direct ancestors
 
-[helloworld-in-javascript](https://github.com/softspider/helloworld-in-javascript) - also by code
+[helloworld-in-javascript](https://github.com/softspiders/helloworld-in-javascript) - also by code
 
 ## Direct descendants
 
-- [Minimalistic NextJS in TypeScript](https://github.com/softspider/next-typescript) - also by code
-- [Minimalistic test example in *TypeScript*](https://github.com/softspider/min-test-in-typescript)
-- [Minimalistic *react-native-web* in *TypeScript*](https://github.com/softspider/react-native-web-ts)
-- [An Apollo Server & Client in a Next.js in a yarn Workspace deployed with Now 2.0](https://github.com/softspider/zeit-now-next-typescript-graphql-apollo)
+- [Minimalistic NextJS in TypeScript](https://github.com/softspiders/next-typescript) - also by code
+- [Minimalistic test example in *TypeScript*](https://github.com/softspiders/min-test-in-typescript)
+- [Minimalistic *react-native-web* in *TypeScript*](https://github.com/softspiders/react-native-web-ts)
+- [An Apollo Server & Client in a Next.js in a yarn Workspace deployed with Now 2.0](https://github.com/softspiders/zeit-now-next-typescript-graphql-apollo)
 - [cra-typescript-uilib-with-storybook-in-lerna](https://github.com/softspiders/cra-typescript-uilib-storybook-lerna)
 - [Minimalistic React module in TypeScript with Storybook and Snapshot testing](https://github.com/softspiders/react-ts-storybook-storyshots)
 
