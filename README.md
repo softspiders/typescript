@@ -12,7 +12,7 @@ SOFTSPIDERS
 
 ## Direct ancestors
 
-[helloworld-in-javascript](https://github.com/softspiders/helloworld-in-javascript) - also by code
+[helloworld-in-javascript](https://github.com/softspiders/javascript) - also by code
 
 ## Direct descendants
 
