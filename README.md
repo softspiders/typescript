@@ -1,10 +1,12 @@
-SOFTSPIDERS
+[SOFTSPIDERS](https://github.com/softspiders/softspiders)
 
 # HelloWorld in TypeScript
 
 ---
 
 ## Feature tags
+
+- starter
 - template
 - typescript
 
