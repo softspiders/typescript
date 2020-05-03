@@ -12,11 +12,11 @@
 
 ---
 
-## Direct ancestors
+## Parents
 
 [helloworld-in-javascript](https://github.com/softspiders/javascript) - also by code
 
-## Direct descendants
+## Children
 
 - [Minimalistic NextJS in TypeScript](https://github.com/softspiders/next-typescript) - also by code
 - [Minimalistic test example in *TypeScript*](https://github.com/softspiders/typescript-test)
