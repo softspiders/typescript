@@ -24,7 +24,7 @@
 - [An Apollo Server & Client in a Next.js in a yarn Workspace deployed with Now 2.0](https://github.com/softspiders/zeit-now-next-typescript-graphql-apollo)
 - [cra-typescript-uilib-with-storybook-in-lerna](https://github.com/softspiders/cra-typescript-uilib-storybook-lerna)
 - [Minimalistic React module in TypeScript with Storybook and Snapshot testing](https://github.com/softspiders/react-ts-storybook-storyshots)
-- [+*ioc*: ts-ioc-starter](https://github.com/softspiders/ts-ioc-starter)
+- [+ **clean-architecture, dependency-inversion**](https://github.com/softspiders/dependency-inversion-for-clean-architecture-ts)
 
 ---
 
